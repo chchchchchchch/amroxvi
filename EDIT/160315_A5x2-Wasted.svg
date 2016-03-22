@@ -15,10 +15,10 @@
    width="545.66876"
    height="765.35376"
    xml:space="preserve"
-   sodipodi:docname="160317_A5x2-sink-03.svg"><metadata
+   sodipodi:docname="160320_A5x2-sink-04.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
      id="defs6" /><sodipodi:namedview
      pagecolor="#cccccc"
      bordercolor="#666666"
@@ -32,9 +32,9 @@
      inkscape:window-height="480"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="0.17816554"
-     inkscape:cx="-2896.2042"
-     inkscape:cy="3565.7369"
+     inkscape:zoom="0.84548812"
+     inkscape:cx="-2018.3047"
+     inkscape:cy="3285.199"
      inkscape:current-layer="layer9"
      units="mm"
      guidecolor="#ff0000"
@@ -551,6 +551,7 @@
      id="tspan3026"
      x="116.55685"
      y="-335.08887">WASTED</tspan></text>
+
 
 
 
@@ -1482,7 +1483,7 @@
      sodipodi:open="true"
      sodipodi:end="12.541589"
      sodipodi:start="6.2585156"
-     d="m 80.03736,237.47695 a 13.828837,13.828837 0 1 1 -3.8e-5,-0.002"
+     d="m 80.03736,237.47695 c 0.188395,7.63513 -5.848379,13.97735 -13.483511,14.16575 -7.635132,0.18839 -13.977353,-5.84838 -14.165748,-13.48351 -0.188395,-7.63513 5.848379,-13.97736 13.483511,-14.16575 7.634528,-0.18838 13.976476,5.84746 14.16571,13.48196"
      sodipodi:ry="13.828837"
      sodipodi:rx="13.828837"
      sodipodi:cy="237.81807"
@@ -1494,7 +1495,7 @@
      sodipodi:open="true"
      sodipodi:end="12.541589"
      sodipodi:start="6.2585156"
-     d="m 69.384446,223.01414 a 1.0498047,1.0498047 0 1 1 -3e-6,-1.1e-4"
+     d="m 69.384446,223.01414 c 0.0143,0.57962 -0.443975,1.06108 -1.023589,1.07538 -0.579615,0.0143 -1.061079,-0.44397 -1.075381,-1.02359 -0.0143,-0.57961 0.443974,-1.06107 1.023589,-1.07538 0.579569,-0.0143 1.061013,0.44391 1.075378,1.02348"
      sodipodi:ry="1.0498047"
      sodipodi:rx="1.0498047"
      sodipodi:cy="223.04004"
@@ -1509,7 +1510,7 @@
      sodipodi:cy="223.04004"
      sodipodi:rx="1.0498047"
      sodipodi:ry="1.0498047"
-     d="m 69.384446,223.01414 a 1.0498047,1.0498047 0 1 1 -3e-6,-1.1e-4"
+     d="m 69.384446,223.01414 c 0.0143,0.57962 -0.443975,1.06108 -1.023589,1.07538 -0.579615,0.0143 -1.061079,-0.44397 -1.075381,-1.02359 -0.0143,-0.57961 0.443974,-1.06107 1.023589,-1.07538 0.579569,-0.0143 1.061013,0.44391 1.075378,1.02348"
      sodipodi:start="6.2585156"
      sodipodi:end="12.541589"
      sodipodi:open="true"
@@ -1518,7 +1519,7 @@
      sodipodi:open="true"
      sodipodi:end="12.541589"
      sodipodi:start="6.2585156"
-     d="m 69.384446,223.01414 a 1.0498047,1.0498047 0 1 1 -3e-6,-1.1e-4"
+     d="m 69.384446,223.01414 c 0.0143,0.57962 -0.443975,1.06108 -1.023589,1.07538 -0.579615,0.0143 -1.061079,-0.44397 -1.075381,-1.02359 -0.0143,-0.57961 0.443974,-1.06107 1.023589,-1.07538 0.579569,-0.0143 1.061013,0.44391 1.075378,1.02348"
      sodipodi:ry="1.0498047"
      sodipodi:rx="1.0498047"
      sodipodi:cy="223.04004"
@@ -1533,7 +1534,7 @@
      sodipodi:cy="223.04004"
      sodipodi:rx="1.0498047"
      sodipodi:ry="1.0498047"
-     d="m 69.384446,223.01414 a 1.0498047,1.0498047 0 1 1 -3e-6,-1.1e-4"
+     d="m 69.384446,223.01414 c 0.0143,0.57962 -0.443975,1.06108 -1.023589,1.07538 -0.579615,0.0143 -1.061079,-0.44397 -1.075381,-1.02359 -0.0143,-0.57961 0.443974,-1.06107 1.023589,-1.07538 0.579569,-0.0143 1.061013,0.44391 1.075378,1.02348"
      sodipodi:start="6.2585156"
      sodipodi:end="12.541589"
      sodipodi:open="true"
@@ -2647,6 +2648,7 @@
      sodipodi:role="line">WASTED</tspan></text>
 
 
+
 <text
    xml:space="preserve"
    style="font-size:80px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Hind;-inkscape-font-specification:Hind Bold"
@@ -2658,6 +2660,7 @@
      id="tspan3659"
      x="476.55682"
      y="-1075.0889">WASTED</tspan></text>
+
 
 
 <text
@@ -2673,6 +2676,7 @@
      y="-1285.0889">WASTED</tspan></text>
 
 
+
 <text
    sodipodi:linespacing="141%"
    id="text3665"
@@ -2684,6 +2688,7 @@
      x="126.55684"
      id="tspan3667"
      sodipodi:role="line">WASTED</tspan></text>
+
 
 
 <text
@@ -2699,6 +2704,7 @@
      sodipodi:role="line">WASTED</tspan></text>
 
 
+
 <text
    sodipodi:linespacing="141%"
    id="text3394"
@@ -2712,6 +2718,7 @@
      sodipodi:role="line">W<tspan
    style="font-weight:bold;-inkscape-font-specification:Belgika Bold"
    id="tspan3398">A</tspan>STED</tspan></text>
+
 
 
 <text
@@ -2731,6 +2738,7 @@
    id="tspan3705">D</tspan>)!</tspan></text>
 
 
+
 <text
    sodipodi:linespacing="141%"
    id="text3763"
@@ -2742,6 +2750,7 @@
      x="-5137.5713"
      id="tspan3765"
      sodipodi:role="line">AMRO - Art Meets Radical Openness 2016, Linz</tspan></text>
+
 
 
 <text
@@ -2757,6 +2766,7 @@
      y="-2365.5735">Festival Dedicated to Art, Hacktivism and Open Culture</tspan></text>
 
 
+
 <text
    sodipodi:linespacing="141%"
    id="text3773"
@@ -2768,6 +2778,7 @@
      x="-5137.5713"
      id="tspan3775"
      sodipodi:role="line">25.05-28.05.2016</tspan></text>
+
 
 
 <text
@@ -2783,6 +2794,7 @@
      y="-2305.5735">What is the cultural, social, philosophical, ecological, and economic significance of producing, saving, deleting, and resurfacing data?</tspan></text>
 
 
+
 <text
    xml:space="preserve"
    style="font-size:80px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:'Px437 IBM PS/2thin3';-inkscape-font-specification:'Px437 IBM PS/2thin3'"
@@ -2795,6 +2807,7 @@
      x="126.55684"
      y="-1625.0889">WASTED</tspan></text>
 
+
 <text
    sodipodi:linespacing="141%"
    id="text3662"
@@ -2806,6 +2819,7 @@
      x="-2565.1802"
      id="tspan3664"
      sodipodi:role="line">WASTED</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -2822,6 +2836,7 @@
      x="-2565.1802"
      y="-3999.3257"
      id="tspan3670">significance of producing, saving, deleting, and resurfacing data?</tspan></text>
+
 
 <path
    inkscape:connector-curvature="0"
@@ -2871,6 +2886,7 @@
      x="126.55684"
      y="-1795.0889">WASTED</tspan></text>
 
+
 <text
    sodipodi:linespacing="141%"
    id="text4529"
@@ -2895,6 +2911,7 @@
      sodipodi:role="line"
      id="tspan4541">Festival Dedicated to Art, Hacktivism and Open Culture</tspan></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:35.09466171px;font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aileron;-inkscape-font-specification:Aileron Thin"
@@ -2914,6 +2931,7 @@
      x="-5150.7427"
      y="-694.94507"
      id="tspan4553">Art Meets Radical Openness 2016, Linz </tspan></text>
+
 
 <path
    style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -2943,6 +2961,7 @@
      x="-5150.7427"
      sodipodi:role="line">Festival Dedicated to Art, Hacktivism and Open Culture</tspan></text>
 
+
 <text
    sodipodi:linespacing="141%"
    id="text4616"
@@ -2962,6 +2981,7 @@
      y="-2852.1484"
      x="-2835.5454"
      sodipodi:role="line">Art Meets Radical Openness, Linz </tspan></text>
+
 
 <path
    inkscape:connector-curvature="0"
@@ -2991,6 +3011,7 @@
      y="-2776.7883"
      id="tspan4635">Festival Dedicated to Art, Hacktivism and Open Culture</tspan></text>
 
+
 <text
    sodipodi:linespacing="141%"
    id="text5596"
@@ -3002,6 +3023,7 @@
      y="-1456.7883"
      x="-2835.5454"
      sodipodi:role="line">Made with Google Inc. Material Icons available according to CC-BY 4.0 License -&gt; https://design.google.com/icons</tspan></text>
+
 
 <text
    xml:space="preserve"
@@ -3022,6 +3044,7 @@
      x="-2835.5454"
      y="-669.33789"
      id="tspan5661">Art Meets Radical Openness, Linz </tspan></text>
+
 
 <path
    style="color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
@@ -3051,105 +3074,113 @@
      x="-2835.5454"
      sodipodi:role="line">Festival Dedicated to Art, Hacktivism and Open Culture</tspan></text>
 
+
 </g><g
      inkscape:groupmode="layer"
      id="layer9"
      inkscape:label="002"
      style="display:inline"><text
-       xml:space="preserve"
-       style="font-size:123.13309479px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aileron;-inkscape-font-specification:Aileron Bold"
-       x="-3819.4521"
-       y="-2088.863"
-       id="text3757-6"
-       sodipodi:linespacing="141%"
-       transform="scale(0.99913196,1.0008688)"><tspan
-         sodipodi:role="line"
-         id="tspan3759-6"
-         x="-3819.4521"
-         y="-2088.863">W<tspan
+   xml:space="preserve"
+   style="font-size:123.13309479px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aileron;-inkscape-font-specification:Aileron Bold"
+   x="-3819.4521"
+   y="-2088.863"
+   id="text3757-6"
+   sodipodi:linespacing="141%"
+   transform="scale(0.99913196,1.0008688)"><tspan
+     sodipodi:role="line"
+     id="tspan3759-6"
+     x="-3819.4521"
+     y="-2088.863">W<tspan
    id="tspan3761-3"
    style="font-size:123.13309479px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:140.99999666%;writing-mode:lr-tb;text-anchor:start;font-family:Aileron;-inkscape-font-specification:Aileron Bold">A</tspan>STE(<tspan
    style="font-size:123.13309479px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:140.99999666%;writing-mode:lr-tb;text-anchor:start;font-family:Aileron;-inkscape-font-specification:Aileron Bold"
    id="tspan3705-7">D</tspan>)!</tspan></text>
+
 <text
-       sodipodi:linespacing="141%"
-       id="text10982"
-       y="-2410.5735"
-       x="-3909.5713"
-       style="font-size:163.96813965px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Belgika;-inkscape-font-specification:Belgika Light"
-       xml:space="preserve"><tspan
-         y="-2410.5735"
-         x="-3909.5713"
-         id="tspan10984"
-         sodipodi:role="line">W<tspan
+   sodipodi:linespacing="141%"
+   id="text10982"
+   y="-2410.5735"
+   x="-3909.5713"
+   style="font-size:163.96813965px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Belgika;-inkscape-font-specification:Belgika Light"
+   xml:space="preserve"><tspan
+     y="-2410.5735"
+     x="-3909.5713"
+     id="tspan10984"
+     sodipodi:role="line">W<tspan
    style="font-size:163.96813965px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:140.99999666%;writing-mode:lr-tb;text-anchor:start;font-family:Belgika;-inkscape-font-specification:Belgika Light"
    id="tspan10986">A</tspan>STE(<tspan
    id="tspan10988"
    style="font-size:163.96813965px;font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;text-align:start;line-height:140.99999666%;writing-mode:lr-tb;text-anchor:start;font-family:Belgika;-inkscape-font-specification:Belgika Semi-Bold">D</tspan>)!</tspan></text>
+
 <text
-       sodipodi:linespacing="141%"
-       id="text4616-4"
-       y="-1991.2649"
-       x="-3890.2612"
-       style="font-size:52px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aileron;-inkscape-font-specification:Aileron Light"
-       xml:space="preserve"><tspan
-         y="-1991.2649"
-         x="-3890.2612"
-         sodipodi:role="line"
-         id="tspan4620-8">25.05-28.05.2016</tspan><tspan
-         id="tspan4622-7"
-         y="-1917.9449"
-         x="-3890.2612"
-         sodipodi:role="line">Art Meets Radical Openness, Linz </tspan></text>
+   sodipodi:linespacing="141%"
+   id="text4616-4"
+   y="-1991.2649"
+   x="-3890.2612"
+   style="font-size:52px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aileron;-inkscape-font-specification:Aileron Light"
+   xml:space="preserve"><tspan
+     y="-1991.2649"
+     x="-3890.2612"
+     sodipodi:role="line"
+     id="tspan4620-8">25.05-28.05.2016</tspan><tspan
+     id="tspan4622-7"
+     y="-1917.9449"
+     x="-3890.2612"
+     sodipodi:role="line">Art Meets Radical Openness, Linz </tspan></text>
+
 <text
-       xml:space="preserve"
-       style="font-size:46.7752533px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Crickx;-inkscape-font-specification:Crickx Ultra-Bold"
-       x="-2834.9062"
-       y="-1949.603"
-       id="text4633-8"
-       sodipodi:linespacing="141%"><tspan
-         sodipodi:role="line"
-         x="-2834.9062"
-         y="-1949.603"
-         id="tspan4635-8">Festival Dedicated to Art, Hacktivism and Open Culture</tspan></text>
+   xml:space="preserve"
+   style="font-size:46.7752533px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Crickx;-inkscape-font-specification:Crickx Ultra-Bold"
+   x="-2834.9062"
+   y="-1949.603"
+   id="text4633-8"
+   sodipodi:linespacing="141%"><tspan
+     sodipodi:role="line"
+     x="-2834.9062"
+     y="-1949.603"
+     id="tspan4635-8">Festival Dedicated to Art, Hacktivism and Open Culture</tspan></text>
+
 <text
-       transform="scale(0.99913196,1.0008688)"
-       sodipodi:linespacing="141%"
-       id="text11030"
-       y="-2132.2346"
-       x="-2644.5466"
-       style="font-size:147.22491455px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Crickx;-inkscape-font-specification:Crickx Ultra-Bold"
-       xml:space="preserve"><tspan
-         y="-2132.2346"
-         x="-2644.5466"
-         id="tspan11032"
-         sodipodi:role="line">W<tspan
+   transform="scale(0.99913196,1.0008688)"
+   sodipodi:linespacing="141%"
+   id="text11030"
+   y="-2132.2346"
+   x="-2644.5466"
+   style="font-size:147.22491455px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Crickx;-inkscape-font-specification:Crickx Ultra-Bold"
+   xml:space="preserve"><tspan
+     y="-2132.2346"
+     x="-2644.5466"
+     id="tspan11032"
+     sodipodi:role="line">W<tspan
    style="font-size:147.22491455px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:140.99999666%;writing-mode:lr-tb;text-anchor:start;font-family:Crickx;-inkscape-font-specification:Crickx Ultra-Bold"
    id="tspan11034">A</tspan>STE(<tspan
    id="tspan11036"
    style="font-size:147.22491455px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:140.99999666%;writing-mode:lr-tb;text-anchor:start;font-family:Crickx;-inkscape-font-specification:Crickx Ultra-Bold">D</tspan>)!</tspan></text>
+
 <text
-       xml:space="preserve"
-       style="font-size:76.68784332px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aileron;-inkscape-font-specification:Aileron Light"
-       x="-2637.3601"
-       y="-2062.5164"
-       id="text11038"
-       sodipodi:linespacing="141%"><tspan
-         sodipodi:role="line"
-         x="-2637.3601"
-         y="-2062.5164"
-         id="tspan11042">25.05-28.05.2016</tspan></text>
+   xml:space="preserve"
+   style="font-size:76.68784332px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Aileron;-inkscape-font-specification:Aileron Light"
+   x="-2637.3601"
+   y="-2060.5164"
+   id="text11038"
+   sodipodi:linespacing="141%"><tspan
+     sodipodi:role="line"
+     x="-2637.3601"
+     y="-2060.5164"
+     id="tspan11042">25.05-28.05.2016</tspan></text>
+
 <text
-       sodipodi:linespacing="141%"
-       id="text11044"
-       y="-1988.8926"
-       x="-2843.4683"
-       style="font-size:80.16932678px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Crickx;-inkscape-font-specification:Crickx Ultra-Bold"
-       xml:space="preserve"><tspan
-         id="tspan11048"
-         y="-1988.8926"
-         x="-2843.4683"
-         sodipodi:role="line">Art Meets Radical Openness, Linz </tspan></text>
+   sodipodi:linespacing="141%"
+   id="text11044"
+   y="-1988.8926"
+   x="-2843.4683"
+   style="font-size:80.16932678px;font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;text-align:start;line-height:140.99999666%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Crickx;-inkscape-font-specification:Crickx Ultra-Bold"
+   xml:space="preserve"><tspan
+     id="tspan11048"
+     y="-1988.8926"
+     x="-2843.4683"
+     sodipodi:role="line">Art Meets Radical Openness, Linz </tspan></text>
+
 </g><g
      inkscape:groupmode="layer"
      id="layer4"
@@ -5420,8 +5451,7 @@
      inkscape:groupmode="layer"
      id="g12401"
      inkscape:label="AA_002_W"
-     style="display:inline"
-     sodipodi:insensitive="true"><path
+     style="display:inline"><path
        d="m -2815.5817,-2985.5382 h 20 v -5 h -20 v 5 z"
        id="path12629"
        style="fill:#ffffff;stroke:#ffffff"
@@ -6368,25 +6398,6 @@
        d="m -1683.3675,-2676.2049 h -45 v -30 h 45 v 30 z"
        id="path12551"
        style="fill:#ffffff;stroke:#ffffff"
-       inkscape:connector-curvature="0" /><circle
-       transform="matrix(1.25,0,0,1.25,-1655.5817,-2726.7049)"
-       d="m 28,8 c 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 2.209139,0 4,1.790861 4,4 z"
-       id="circle12553"
-       r="4"
-       cy="8"
-       cx="24"
-       sodipodi:cx="24"
-       sodipodi:cy="8"
-       sodipodi:rx="4"
-       sodipodi:ry="4"
-       style="fill:#ffffff;stroke:#ffffff" /><path
-       d="m -1608.0817,-2694.2049 v -5 c -3.8375,0.05 -7.725,-1.875 -10.175,-4.5875 l -3.2375,-3.575 c -0.4375,-0.475 -0.9625,-0.85 -1.525,-1.1375 -0.025,-0.013 -0.038,-0.025 -0.05,-0.037 h -0.025 c -0.8625,-0.5 -1.8875,-0.75 -2.975,-0.6375 -2.6,0.25 -4.5125,2.5875 -4.5125,5.2 v 14.775 c 0,2.7625 2.2375,5 5,5 h 12.5 v 12.5 h 5 v -13.75 c 0,-2.7625 -2.2375,-5 -5,-5 h -7.5 v -8.625 c 3.225,2.6625 8.1125,4.8625 12.5,4.875 z"
-       id="path13101"
-       style="fill:#ffffff;stroke:#ffffff"
-       inkscape:connector-curvature="0" /><path
-       d="m -1623.5192,-2681.7049 c -1.025,2.9125 -3.8,5 -7.0625,5 -4.1375,0 -7.5,-3.3625 -7.5,-7.5 0,-3.2625 2.0875,-6.0375 5,-7.0625 v -5.1875 c -5.7,1.1625 -10,6.2 -10,12.25 0,6.9 5.6,12.5 12.5,12.5 6.05,0 11.0875,-4.3 12.25,-10 h -5.1875 z"
-       id="path12555"
-       style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
        d="m -3505.5817,-2822.934 15.975,25.5625 h -31.95 l 15.975,-25.5625"
        id="path13105"
@@ -6692,11 +6703,11 @@
        id="path12605"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
-       d="m -1958.2245,-2545.0382 c 0,-2.775 2.225,-5 5,-5 2.775,0 5,2.225 5,5 0,2.775 -2.225,5 -5,5 -2.775,0 -5,-2.225 -5,-5 z"
+       d="m -1948.2245,-2545.0382 c 0,-2.775 2.225,-5 5,-5 2.775,0 5,2.225 5,5 0,2.775 -2.225,5 -5,5 -2.775,0 -5,-2.225 -5,-5 z"
        id="path13295"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
-       d="m -1940.7245,-2522.5382 c -0.025,-3.3625 -2.075,-6.275 -5,-7.5 0,-4.1375 -3.3625,-7.5 -7.5,-7.5 -4.1375,0 -7.5,3.3625 -7.5,7.5 v 17.5 h 5 v 12.5 h 7.5 v -12.5 h 7.5 v -10 z"
+       d="m -1930.7245,-2522.5382 c -0.025,-3.3625 -2.075,-6.275 -5,-7.5 0,-4.1375 -3.3625,-7.5 -7.5,-7.5 -4.1375,0 -7.5,3.3625 -7.5,7.5 v 17.5 h 5 v 12.5 h 7.5 v -12.5 h 7.5 v -10 z"
        id="path12609"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
@@ -6736,51 +6747,50 @@
        id="path12617"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
-       d="m -1600.5817,-2388.738 -11.4875,-9.6375 -3.2125,3.825 11.4875,9.6375 3.2125,-3.825 z"
+       d="m -1600.5817,-2408.738 -11.4875,-9.6375 -3.2125,3.825 11.4875,9.6375 3.2125,-3.825 z"
        id="path13331"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
-       d="m -1635.8817,-2394.563 -3.2125,-3.825 -11.4875,9.6375 3.2125,3.825 11.4875,-9.6375 z"
+       d="m -1635.8817,-2414.563 -3.2125,-3.825 -11.4875,9.6375 3.2125,3.825 11.4875,-9.6375 z"
        id="path13329"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
-       d="m -1624.3317,-2383.038 h -3.75 v 15 l 11.8625,7.1375 1.8875,-3.0875 -10,-5.925 v -13.125 z"
+       d="m -1624.3317,-2403.038 h -3.75 v 15 l 11.8625,7.1375 1.8875,-3.0875 -10,-5.925 v -13.125 z"
        id="path13327"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
-       d="m -1625.5942,-2393.038 c -12.4375,0 -22.4875,10.075 -22.4875,22.5 0,12.425 10.05,22.5 22.4875,22.5 12.4375,0 22.5125,-10.075 22.5125,-22.5 0,-12.425 -10.075,-22.5 -22.5125,-22.5 z"
+       d="m -1625.5942,-2413.038 c -12.4375,0 -22.4875,10.075 -22.4875,22.5 0,12.425 10.05,22.5 22.4875,22.5 12.4375,0 22.5125,-10.075 22.5125,-22.5 0,-12.425 -10.075,-22.5 -22.5125,-22.5 z"
        id="path13325"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
-       d="m -1625.5812,-2353.038 c -9.6625,0 -17.5,-7.8375 -17.5,-17.5 0,-9.6625 7.8375,-17.5 17.5,-17.5 9.6625,0 17.5,7.8375 17.5,17.5 0,9.6625 -7.825,17.5 -17.5,17.5 z"
+       d="m -1625.5812,-2373.038 c -9.6625,0 -17.5,-7.8375 -17.5,-17.5 0,-9.6625 7.8375,-17.5 17.5,-17.5 9.6625,0 17.5,7.8375 17.5,17.5 0,9.6625 -7.825,17.5 -17.5,17.5 z"
        id="path12619"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
-       d="m -1608.0817,-2283.0382 h -35 c -4.1375,0 -7.5,3.3625 -7.5,7.5 v 15 h 10 v 10 h 30 v -10 h 10 v -15 c 0,-4.1375 -3.3625,-7.5 -7.5,-7.5 z"
+       d="m -1608.0817,-2711.0382 h -35 c -4.1375,0 -7.5,3.3625 -7.5,7.5 v 15 h 10 v 10 h 30 v -10 h 10 v -15 c 0,-4.1375 -3.3625,-7.5 -7.5,-7.5 z"
        id="path13339"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
-       d="m -1615.5817,-2255.5382 h -20 v -12.5 h 20 v 12.5 z"
+       d="m -1615.5817,-2683.5382 h -20 v -12.5 h 20 v 12.5 z"
        id="path13337"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
-       d="m -1608.0817,-2273.0382 c -1.3875,0 -2.5,-1.1125 -2.5,-2.5 0,-1.3875 1.1125,-2.5 2.5,-2.5 1.3875,0 2.5,1.1125 2.5,2.5 0,1.3875 -1.1125,2.5 -2.5,2.5 z"
+       d="m -1608.0817,-2701.0382 c -1.3875,0 -2.5,-1.1125 -2.5,-2.5 0,-1.3875 1.1125,-2.5 2.5,-2.5 1.3875,0 2.5,1.1125 2.5,2.5 0,1.3875 -1.1125,2.5 -2.5,2.5 z"
        id="path13335"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
-       d="m -1610.5817,-2295.5382 h -30 v 10 h 30 v -10 z"
+       d="m -1610.5817,-2723.5382 h -30 v 10 h 30 v -10 z"
        id="path12621"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /><path
-       d="m -1615.5817,-2486.0382 h -25 v 13.75 h 0.025 l -0.025,0.025 11.225,11.225 -11.225,11.225 0.025,0.025 h -0.025 v 13.75 h 30 v -13.75 h -0.025 l 0.025,-0.025 -11.225,-11.225 11.225,-11.225 -0.025,-0.025 h 0.025 v -13.75 h -5 z"
+       d="m -1615.5817,-2496.0382 h -25 v 13.75 h 0.025 l -0.025,0.025 11.225,11.225 -11.225,11.225 0.025,0.025 h -0.025 v 13.75 h 30 v -13.75 h -0.025 l 0.025,-0.025 -11.225,-11.225 11.225,-11.225 -0.025,-0.025 h 0.025 v -13.75 h -5 z"
        id="path12623"
        style="fill:#ffffff;stroke:#ffffff"
        inkscape:connector-curvature="0" /></g><g
-     style="display:none"
+     style="display:inline"
      inkscape:label="AA_002"
      id="g11526"
-     inkscape:groupmode="layer"
-     sodipodi:insensitive="true"><path
+     inkscape:groupmode="layer"><path
        inkscape:connector-curvature="0"
        d="m -2815.5817,-2985.5382 h 20 v -5 h -20 v 5 z m 20,-54.975 -20,-0.025 c -2.7625,0 -5,2.2375 -5,5 v 35 c 0,2.7625 2.2375,5 5,5 h 20 c 2.7625,0 5,-2.2375 5,-5 v -35 c 0,-2.7625 -2.2375,-4.975 -5,-4.975 z m 0,34.975 h -20 v -25 h 20 v 25 z"
        id="path11532" /><path
@@ -7013,20 +7023,7 @@
        id="path11966" /><path
        inkscape:connector-curvature="0"
        d="m -1683.3675,-2711.2049 h -45 c -2.7625,0 -5,2.2375 -5,5 v 30 c 0,2.7625 2.2375,5 5,5 h 12.5 v 5 h 20 v -5 h 12.5 c 2.7625,0 4.975,-2.2375 4.975,-5 l 0.025,-30 c 0,-2.7625 -2.2375,-5 -5,-5 z m 0,35 h -45 v -30 h 45 v 30 z"
-       id="path11972" /><circle
-       sodipodi:ry="4"
-       sodipodi:rx="4"
-       sodipodi:cy="8"
-       sodipodi:cx="24"
-       cx="24"
-       cy="8"
-       r="4"
-       id="circle11978"
-       d="m 28,8 c 0,2.209139 -1.790861,4 -4,4 -2.209139,0 -4,-1.790861 -4,-4 0,-2.209139 1.790861,-4 4,-4 2.209139,0 4,1.790861 4,4 z"
-       transform="matrix(1.25,0,0,1.25,-1655.5817,-2726.7049)" /><path
-       inkscape:connector-curvature="0"
-       d="m -1608.0817,-2694.2049 v -5 c -3.8375,0.05 -7.725,-1.875 -10.175,-4.5875 l -3.2375,-3.575 c -0.4375,-0.475 -0.9625,-0.85 -1.525,-1.1375 -0.025,-0.013 -0.038,-0.025 -0.05,-0.037 h -0.025 c -0.8625,-0.5 -1.8875,-0.75 -2.975,-0.6375 -2.6,0.25 -4.5125,2.5875 -4.5125,5.2 v 14.775 c 0,2.7625 2.2375,5 5,5 h 12.5 v 12.5 h 5 v -13.75 c 0,-2.7625 -2.2375,-5 -5,-5 h -7.5 v -8.625 c 3.225,2.6625 8.1125,4.8625 12.5,4.875 z m -15.4375,12.5 c -1.025,2.9125 -3.8,5 -7.0625,5 -4.1375,0 -7.5,-3.3625 -7.5,-7.5 0,-3.2625 2.0875,-6.0375 5,-7.0625 v -5.1875 c -5.7,1.1625 -10,6.2 -10,12.25 0,6.9 5.6,12.5 12.5,12.5 6.05,0 11.0875,-4.3 12.25,-10 h -5.1875 z"
-       id="path11980" /><path
+       id="path11972" /><path
        inkscape:connector-curvature="0"
        d="m -3505.5817,-2822.934 15.975,25.5625 h -31.95 l 15.975,-25.5625 m 0,-9.4375 -25,40 h 50 l -25,-40 z"
        id="path11986" /><path
@@ -7089,7 +7086,7 @@
        d="m -2103.7959,-2565.5382 h -22.5 c -2.075,0 -3.85,1.2625 -4.6,3.05 l -7.5375,17.625 c -0.225,0.575 -0.3625,1.1875 -0.3625,1.825 v 4.7875 l 0.025,0.025 -0.025,0.1875 c 0,2.7625 2.2375,5 5,5 h 15.7875 l -2.3875,11.425 c -0.05,0.25 -0.088,0.5125 -0.088,0.7875 0,1.0375 0.425,1.975 1.1,2.65 l 2.6625,2.6375 16.4625,-16.4625 c 0.9,-0.9125 1.4625,-2.1625 1.4625,-3.5375 v -25 c 0,-2.7625 -2.2375,-5 -5,-5 z m 10,0 v 30 h 10 v -30 h -10 z"
        id="path12126" /><path
        inkscape:connector-curvature="0"
-       d="m -1958.2245,-2545.0382 c 0,-2.775 2.225,-5 5,-5 2.775,0 5,2.225 5,5 0,2.775 -2.225,5 -5,5 -2.775,0 -5,-2.225 -5,-5 z m 17.5,22.5 c -0.025,-3.3625 -2.075,-6.275 -5,-7.5 0,-4.1375 -3.3625,-7.5 -7.5,-7.5 -4.1375,0 -7.5,3.3625 -7.5,7.5 v 17.5 h 5 v 12.5 h 7.5 v -12.5 h 7.5 v -10 z"
+       d="m -1948.2245,-2545.0382 c 0,-2.775 2.225,-5 5,-5 2.775,0 5,2.225 5,5 0,2.775 -2.225,5 -5,5 -2.775,0 -5,-2.225 -5,-5 z m 17.5,22.5 c -0.025,-3.3625 -2.075,-6.275 -5,-7.5 0,-4.1375 -3.3625,-7.5 -7.5,-7.5 -4.1375,0 -7.5,3.3625 -7.5,7.5 v 17.5 h 5 v 12.5 h 7.5 v -12.5 h 7.5 v -10 z"
        id="path12138" /><path
        inkscape:connector-curvature="0"
        d="m -1853.9031,-2721.0382 h -35 c -3.45,0 -6.25,2.8 -6.25,6.25 v 47.5 c 0,3.45 2.8,6.25 6.25,6.25 h 35 c 3.45,0 6.25,-2.8 6.25,-6.25 v -47.5 c 0,-3.45 -2.8,-6.25 -6.25,-6.25 z m -17.5,57.5 c -2.075,0 -3.75,-1.675 -3.75,-3.75 0,-2.075 1.675,-3.75 3.75,-3.75 2.075,0 3.75,1.675 3.75,3.75 0,2.075 -1.675,3.75 -3.75,3.75 z m 18.75,-10 h -37.5 v -40 h 37.5 v 40 z"
@@ -7101,65 +7098,18 @@
        d="m -1610.5817,-2555.5382 -3.5375,-3.5375 -15.85,15.8625 3.5375,3.5375 15.85,-15.8625 z m 10.6125,-3.5375 -26.475,26.4625 -10.425,-10.425 -3.5375,3.5375 13.9625,13.9625 30,-30 -3.525,-3.5375 z m -54.575,19.575 13.9625,13.9625 3.5375,-3.5375 -13.9625,-13.9625 -3.5375,3.5375 z"
        id="path12162" /><path
        inkscape:connector-curvature="0"
-       d="m -1600.5817,-2388.738 -11.4875,-9.6375 -3.2125,3.825 11.4875,9.6375 3.2125,-3.825 z m -35.3,-5.825 -3.2125,-3.825 -11.4875,9.6375 3.2125,3.825 11.4875,-9.6375 z m 11.55,11.525 h -3.75 v 15 l 11.8625,7.1375 1.8875,-3.0875 -10,-5.925 v -13.125 z m -1.2625,-10 c -12.4375,0 -22.4875,10.075 -22.4875,22.5 0,12.425 10.05,22.5 22.4875,22.5 12.4375,0 22.5125,-10.075 22.5125,-22.5 0,-12.425 -10.075,-22.5 -22.5125,-22.5 z m 0.013,40 c -9.6625,0 -17.5,-7.8375 -17.5,-17.5 0,-9.6625 7.8375,-17.5 17.5,-17.5 9.6625,0 17.5,7.8375 17.5,17.5 0,9.6625 -7.825,17.5 -17.5,17.5 z"
+       d="m -1600.5817,-2408.738 -11.4875,-9.6375 -3.2125,3.825 11.4875,9.6375 3.2125,-3.825 z m -35.3,-5.825 -3.2125,-3.825 -11.4875,9.6375 3.2125,3.825 11.4875,-9.6375 z m 11.55,11.525 h -3.75 v 15 l 11.8625,7.1375 1.8875,-3.0875 -10,-5.925 v -13.125 z m -1.2625,-10 c -12.4375,0 -22.4875,10.075 -22.4875,22.5 0,12.425 10.05,22.5 22.4875,22.5 12.4375,0 22.5125,-10.075 22.5125,-22.5 0,-12.425 -10.075,-22.5 -22.5125,-22.5 z m 0.013,40 c -9.6625,0 -17.5,-7.8375 -17.5,-17.5 0,-9.6625 7.8375,-17.5 17.5,-17.5 9.6625,0 17.5,7.8375 17.5,17.5 0,9.6625 -7.825,17.5 -17.5,17.5 z"
        id="path12168" /><path
        inkscape:connector-curvature="0"
-       d="m -1608.0817,-2283.0382 h -35 c -4.1375,0 -7.5,3.3625 -7.5,7.5 v 15 h 10 v 10 h 30 v -10 h 10 v -15 c 0,-4.1375 -3.3625,-7.5 -7.5,-7.5 z m -7.5,27.5 h -20 v -12.5 h 20 v 12.5 z m 7.5,-17.5 c -1.3875,0 -2.5,-1.1125 -2.5,-2.5 0,-1.3875 1.1125,-2.5 2.5,-2.5 1.3875,0 2.5,1.1125 2.5,2.5 0,1.3875 -1.1125,2.5 -2.5,2.5 z m -2.5,-22.5 h -30 v 10 h 30 v -10 z"
+       d="m -1608.0817,-2711.0382 h -35 c -4.1375,0 -7.5,3.3625 -7.5,7.5 v 15 h 10 v 10 h 30 v -10 h 10 v -15 c 0,-4.1375 -3.3625,-7.5 -7.5,-7.5 z m -7.5,27.5 h -20 v -12.5 h 20 v 12.5 z m 7.5,-17.5 c -1.3875,0 -2.5,-1.1125 -2.5,-2.5 0,-1.3875 1.1125,-2.5 2.5,-2.5 1.3875,0 2.5,1.1125 2.5,2.5 0,1.3875 -1.1125,2.5 -2.5,2.5 z m -2.5,-22.5 h -30 v 10 h 30 v -10 z"
        id="path12174" /><path
        inkscape:connector-curvature="0"
-       d="m -1615.5817,-2486.0382 h -25 v 13.75 h 0.025 l -0.025,0.025 11.225,11.225 -11.225,11.225 0.025,0.025 h -0.025 v 13.75 h 30 v -13.75 h -0.025 l 0.025,-0.025 -11.225,-11.225 11.225,-11.225 -0.025,-0.025 h 0.025 v -13.75 h -5 z"
+       d="m -1615.5817,-2496.0382 h -25 v 13.75 h 0.025 l -0.025,0.025 11.225,11.225 -11.225,11.225 0.025,0.025 h -0.025 v 13.75 h 30 v -13.75 h -0.025 l 0.025,-0.025 -11.225,-11.225 11.225,-11.225 -0.025,-0.025 h 0.025 v -13.75 h -5 z"
        id="path12180" /></g><g
      inkscape:groupmode="layer"
-     id="layer11"
-     inkscape:label="TEST"
-     style="display:inline"><path
-       style="display:inline"
-       inkscape:connector-curvature="0"
-       d="m -2364.1531,-2841.3715 c 2.7625,0 4.975,-2.2375 4.975,-5 l 0.025,-25 c 0,-2.7625 -2.2375,-5 -5,-5 h -40 c -2.7625,0 -5,2.2375 -5,5 v 25 c 0,2.7625 2.2375,5 5,5 h -10 v 5 h 60 v -5 h -10 z m -40,-30 h 40 v 25 h -40 v -25 z"
-       id="path11744-3" /><path
-       style="display:inline"
-       inkscape:connector-curvature="0"
-       d="m -2193.0817,-2881.3715 h -45 c -2.7625,0 -5,2.2375 -5,5 v 30 c 0,2.7625 2.2375,5 5,5 h 17.5 l -5,7.5 v 2.5 h 20 v -2.5 l -5,-7.5 h 17.5 c 2.7625,0 5,-2.2375 5,-5 v -30 c 0,-2.7625 -2.2375,-5 -5,-5 z m 0,30 h -45 v -25 h 45 v 25 z"
-       id="path11756-9" /><path
-       style="display:inline"
-       inkscape:connector-curvature="0"
-       d="m -2289.8674,-3040.5382 h -20 c -4.1375,0 -7.5,3.3625 -7.5,7.5 v 40 c 0,4.1375 3.3625,7.5 7.5,7.5 h 20 c 4.1375,0 7.5,-3.3625 7.5,-7.5 v -40 c 0,-4.1375 -3.3625,-7.5 -7.5,-7.5 z m -5,50 h -10 v -2.5 h 10 v 2.5 z m 8.125,-7.5 h -26.25 v -35 h 26.25 v 35 z"
-       id="path11568-2" /><path
-       style="display:inline"
-       inkscape:connector-curvature="0"
-       d="m -2537.7245,-2964.7049 h -30 c -4.15,0 -7.5,3.35 -7.5,7.5 v 45 c 0,4.15 3.35,7.5 7.5,7.5 h 30 c 4.15,0 7.5,-3.35 7.5,-7.5 v -45 c 0,-4.15 -3.35,-7.5 -7.5,-7.5 z m -10,55 h -10 v -2.5 h 10 v 2.5 z m 13.125,-7.5 h -36.25 v -40 h 36.25 v 40 z"
-       id="path11640-2" /><path
-       style="display:inline"
-       inkscape:connector-curvature="0"
-       d="m -2617.0103,-2841.3715 c 2.7625,0 4.975,-2.2375 4.975,-5 l 0.025,-27.5 c 0,-2.7625 -2.2375,-5 -5,-5 h -40 c -2.7625,0 -5,2.2375 -5,5 v 27.5 c 0,2.7625 2.2375,5 5,5 h -10 c 0,2.7625 2.2375,5 5,5 h 50 c 2.7625,0 5,-2.2375 5,-5 h -10 z m -40,-32.5 h 40 v 27.5 h -40 v -27.5 z m 20,35 c -1.375,0 -2.5,-1.125 -2.5,-2.5 0,-1.375 1.125,-2.5 2.5,-2.5 1.375,0 2.5,1.125 2.5,2.5 0,1.375 -1.125,2.5 -2.5,2.5 z"
-       id="path11726-5" /><path
-       style="display:inline"
-       inkscape:connector-curvature="0"
-       d="m -2815.5817,-2985.5382 h 20 v -5 h -20 v 5 z m 20,-54.975 -20,-0.025 c -2.7625,0 -5,2.2375 -5,5 v 35 c 0,2.7625 2.2375,5 5,5 h 20 c 2.7625,0 5,-2.2375 5,-5 v -35 c 0,-2.7625 -2.2375,-4.975 -5,-4.975 z m 0,34.975 h -20 v -25 h 20 v 25 z"
-       id="path11532-6" /><path
-       style="display:inline"
-       inkscape:connector-curvature="0"
-       d="m -2818.0817,-2841.3715 c -2.7625,0 -4.975,2.2375 -4.975,5 0,2.7625 2.2125,5 4.975,5 2.7625,0 5,-2.2375 5,-5 0,-2.7625 -2.2375,-5 -5,-5 z m -15,-40 v 5 h 5 l 8.9875,18.9625 -3.375,6.125 c -0.3875,0.725 -0.6125,1.5375 -0.6125,2.4125 0,2.7625 2.2375,5 5,5 h 30 v -5 h -28.9375 c -0.35,0 -0.625,-0.275 -0.625,-0.625 0,-0.1125 0.025,-0.2125 0.075,-0.3 l 2.2375,-4.075 h 18.625 c 1.875,0 3.5125,-1.0375 4.375,-2.575 l 8.9375,-16.225 c 0.2,-0.35 0.3125,-0.7625 0.3125,-1.2 0,-1.3875 -1.125,-2.5 -2.5,-2.5 h -36.9625 l -2.375,-5 h -8.1625 z m 40,40 c -2.7625,0 -4.975,2.2375 -4.975,5 0,2.7625 2.2125,5 4.975,5 2.7625,0 5,-2.2375 5,-5 0,-2.7625 -2.2375,-5 -5,-5 z"
-       id="path11714-2" /><path
-       style="display:inline"
-       inkscape:connector-curvature="0"
-       d="m -2800.5817,-2724.7049 h -20 c -2.7625,0 -4.975,2.2375 -4.975,5 l -0.025,40 c 0,2.7625 2.2125,5 4.975,5 h 30.025 c 2.7625,0 5,-2.2375 5,-5 v -30 l -15,-15 z m 5,35 h -7.5 v 7.5 h -5 v -7.5 h -7.5 v -5 h 7.5 v -7.5 h 5 v 7.5 h 7.5 v 5 z m -7.5,-17.5 v -13.75 l 13.75,13.75 h -13.75 z"
-       id="path11894-4" /><path
-       style="display:inline"
-       inkscape:connector-curvature="0"
-       d="m -2783.0817,-2957.2049 h -45 c -2.7625,0 -5,2.2375 -5,5 v 35 c 0,2.7625 2.2375,5 5,5 h 45 c 2.7625,0 5,-2.2375 5,-5 v -35 c 0,-2.7625 -2.2375,-5 -5,-5 z m 0,40.0375 h -45 v -35.075 h 45 v 35.075 z m -32.5,-7.5375 h 6.25 l 3.75,3.75 3.75,-3.75 h 6.25 v -6.25 l 3.75,-3.75 -3.75,-3.75 v -6.25 h -6.25 l -3.75,-3.75 -3.75,3.75 h -6.25 v 6.25 l -3.75,3.75 3.75,3.75 v 6.25 z m 10,-17.5 c 4.1375,0 7.5,3.3625 7.5,7.5 0,4.1375 -3.3625,7.5 -7.5,7.5 v -15 z"
-       id="path11622-4" /><path
-       style="display:inline"
-       inkscape:connector-curvature="0"
-       d="m -2718.8085,-3035.5382 c -12.4375,0 -22.4875,10.075 -22.4875,22.5 h -7.5 l 9.7375,9.7375 0.175,0.3625 10.0875,-10.1 h -7.5 c 0,-9.6625 7.8375,-17.5 17.5,-17.5 9.6625,0 17.5,7.8375 17.5,17.5 0,9.6625 -7.8375,17.5 -17.5,17.5 -4.8375,0 -9.2,-1.975 -12.3625,-5.1375 l -3.5375,3.5375 c 4.0625,4.075 9.675,6.6 15.8875,6.6 12.4375,0 22.5125,-10.075 22.5125,-22.5 0,-12.425 -10.075,-22.5 -22.5125,-22.5 z m -2.4875,12.5 v 12.5 l 10.7,6.35 1.8,-3.0375 -8.75,-5.1875 v -10.625 h -3.75 z"
-       id="path11538-0" /><path
-       style="display:inline"
-       inkscape:connector-curvature="0"
-       d="m -2537.7245,-3025.5382 v -7.5 c 0,-2.7625 -2.2375,-5 -5,-5 h -20 c -2.7625,0 -5,2.2375 -5,5 v 7.5 h -2.5 v 15 l 7.5,15 v 7.5 h 20 v -7.5 l 7.5,-15 v -15 h -2.5 z m -25,-7.5 h 20 v 7.5 h -5 v -5 h -2.5 v 5 h -5 v -5 h -2.5 v 5 h -5 v -7.5 z"
-       id="path11550-8" /></g><g
-     inkscape:groupmode="layer"
      id="layer10"
-     inkscape:label="002"><path
+     inkscape:label="002"
+     style="display:inline"><path
        style="fill:#cccccc;stroke:none;display:inline"
        d="m -2300.6473,-2565.4665 -4.707,-16.5214 16.3533,-1.365 4.183,-10.8117 12.1879,4.0029 3.5441,-12.128 -7.1258,-11.6638 12.2812,-9.5394 -1.3213,-10.0912 30.1369,2.1195 -7.1525,66.9267 z"
        id="path11089-6"
