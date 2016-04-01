@@ -10,7 +10,7 @@
  ---------
 
  Crickx  -> http://osp.kitchen/foundry/crickx
- Aileron -> 
+ Aileron -> http://dotcolon.net/font/aileron 
 
 
  -------------------------------------------------------------
