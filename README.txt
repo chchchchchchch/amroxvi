@@ -9,8 +9,8 @@
  Typefaces:
  ---------
 
- Crickx  -> http://osp.kitchen/foundry/crickx
- Aileron -> http://dotcolon.net/font/aileron 
+ Crickx  -> http://osp.kitchen/foundry/crickx/
+ Aileron -> http://dotcolon.net/font/aileron/ 
 
 
  -------------------------------------------------------------
